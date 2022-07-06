@@ -1,0 +1,35 @@
+.baslik 
+{
+    color: blue;
+    text-align: center;
+
+}
+
+.baslik2
+{
+    color: royalblue;
+    font-style: italic;
+    text-align: center;
+
+
+
+}
+
+.menu 
+{
+    text-align: center;
+
+}
+
+.metinler 
+{
+    text-align: center;
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.liste 
+{
+    list-style-position: inside;
+    text-align: center;
+}
